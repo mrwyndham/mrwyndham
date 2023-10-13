@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Wyndham
 - 👀 I’m interested in App Development and New Technologies
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on IoT solutions
+- 🌱 I’m currently learning LangChain
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me sam@biz365.com.au
 
 <!---
